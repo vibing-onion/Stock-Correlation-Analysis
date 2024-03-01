@@ -1,4 +1,4 @@
-# Stock-Correlation-Analysis 
+# Stock Correlation Analysis 
 
 # Background & Methodology
 The strategy studies the correlation among stocks in the same industry. Combining with pair trading technique, a mid-to-long term strategy of trading option is formed.
