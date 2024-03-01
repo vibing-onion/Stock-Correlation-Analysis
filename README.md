@@ -1,4 +1,4 @@
-# Stock Correlation Analysis 
+# Stock Correlation Analysis (partnered)
 The idea is brought up by my partner, Victor Ng, who also explains the business knowledge involved in this project. Meanwhile, here is basically the technical part...ya, just codes.
 
 # Background & Methodology
