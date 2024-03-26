@@ -16,7 +16,7 @@ The hidden opportunities in US market are left to be discovered.
 # Latest Update
 There are more to explore in warrents, inline or derivative. May change our target products after further research.
 
-#What is convergence trade?
+# What is convergence trade
 Convergence Trade
 (non-academic / professional article)
 
