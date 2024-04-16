@@ -11,7 +11,7 @@ Out of ~1000 stocks, we have spotted ~150 pairs (90%) and ~25 pairs (95%) of sto
 
 # Result
 We regret to say that none of the 95% correlated pairs are option listed in HKEX while the 90% pairs are not statistically-significant enough to give a more guaranteed rate of return.
-The hidden opportunities in US market are left to be discovered.
+The hidden opportunities in US market are left to be discovered as short sell in US asset does not require registration of specific account
 
 # Latest Update
 There are more to explore in warrents, inline or derivative. May change our target products after further research.
