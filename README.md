@@ -1,5 +1,5 @@
 # Stock Correlation Analysis (partnered)
-The idea is brought up by my partner, Victor Ng, who also explains the business knowledge involved in this project. Meanwhile, here is basically the technical part (coding)
+The idea is brought up by my partner, Victor Ng, who also explains the principle of the convergence trade strategy involved in this project. Meanwhile, here is basically the technical part (coding)
 
 # Background & Methodology
 The strategy studies the correlation among stocks in the same industry. Combining with pair trading technique, a mid-to-long term strategy of trading option is formed.
