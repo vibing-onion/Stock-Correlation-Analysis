@@ -1,0 +1,960 @@
+0 ['0152.HK', '0177.HK',          X_coe     Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     False  1.686383         1   1.659607     2.484863  3.498591     True   True
+10-year  False  2.235318         1   6.014579     3.031265  3.867336     True   True
+5-year   False  3.623348         1   16.97472     3.749185  4.532073     True   True
+3-year   False  2.764542         1  10.880094     3.405448  3.963089     True   True
+1-year   False   1.63519         1   6.146648     1.538693  1.730951    False  False]
+1 ['0194.HK', '0224.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  5.022059         0  0.778747     1.331843  1.624474    False  False
+10-year  False  4.147183         0  2.309565     1.001534  1.205034    False  False
+5-year   False  4.925086         0  1.621055     1.100301  1.329202    False  False
+3-year   False  6.860451         1  0.010839     1.067608  1.211733    False  False
+1-year   False   4.74543         0  1.477336      0.56398  0.709677    False  False]
+2 ['0105.HK', '0266.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.641837         0  0.068153     1.075463  1.278649    False  False
+10-year  False  2.585469         0  0.454704     1.060558  1.291691    False  False
+5-year   False  2.671603         1  0.009522     1.192447  1.426923    False  False
+3-year   False  2.517263         0  0.210295     1.430439  1.787657    False  False
+1-year   False  2.360304         0   0.50733     0.601903  0.718903    False  False]
+3 ['0088.HK', '0212.HK',         X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True   9.735842         0    8.23176     8.840651  10.143454    False  False
+10-year  True    9.36356         0   6.882483    10.068188  11.129557    False  False
+5-year   True  11.030712         0  11.421226     7.470383   8.177597    False  False
+3-year   True  12.312892         0  14.967313     5.220601   6.116625    False  False
+1-year   True   4.891871         1   8.427586     1.281011   1.568073    False  False]
+4 ['0825.HK', '3368.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True   1.945459         0  1.332094      2.26479  2.845951    False  False
+10-year  False   1.435314         0  0.427937     0.541217  0.587632    False  False
+5-year   False   2.558769         0  0.092697     0.652371  0.693719    False  False
+3-year   False   6.786008         1  0.383436     0.509362  0.593715    False  False
+1-year   False  19.312115         1  1.866066     0.476973  0.539883    False  False]
+5 ['1918.HK', '3333.HK',          X_coe     Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     False  1.516255         1  0.990315     9.212823  11.354187    False  False
+10-year  False  1.439328         0  0.754874     9.567726  11.264181    False  False
+5-year   False  1.608582         0  0.891796     8.952519  10.223378    False  False
+3-year   False  2.053729         0  0.789009     8.101743   9.278523    False  False
+1-year   False  2.340282         0  0.718534        3.311     3.4155    False  False]
+6 ['0237.HK', '0088.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.181556         1  1.098402     1.004961   1.20798    False  False
+10-year  True  1.196505         1  1.186313     1.295571  1.848352    False  False
+5-year   True  1.700529         0  0.094427     1.088977  1.217822    False  False
+3-year   True  1.013181         1  1.207887     0.408216  0.493932    False  False
+1-year   True  2.507315         0  1.657711     0.410093   0.53982    False  False]
+7 ['0158.HK', '0278.HK',          X_coe       Ratio X_padding      Offset Warning line  Threshold Pre-test   Test
+full     False   27.797368         0    0.420765    31.715612  36.587916    False  False
+10-year  False   22.760599         0   30.143654    27.119937  29.871441     True   True
+5-year   False   36.015919         1   46.924243    42.694953  48.138525    False  False
+3-year   False  118.839493         1  372.224765    27.587085  36.480642    False  False
+1-year   False  327.007559         1  1200.87987    24.987495  24.987495    False  False]
+8 ['1215.HK', '0845.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  10.024908         0  0.137223     0.587547  0.687746    False  False
+10-year  True   8.976378         0  0.151575     0.465614  0.512008    False  False
+5-year   True  10.138889         0  0.152222     0.140856  0.163689    False  False
+3-year   True       9.48         0   0.14168     0.100616  0.112204    False  False
+1-year   True  13.710001         0   0.19565      0.05484  0.056188    False  False]
+9 ['0278.HK', '0688.HK',         X_coe      Ratio X_padding      Offset Warning line Threshold Pre-test   Test
+full     True    3.49674         0    0.143372     6.289733  7.133851    False  False
+10-year  True   2.597061         1    5.330911     4.225253   5.03732     True  False
+5-year   True   3.477133         0    0.376674     6.969832  8.148759    False  False
+3-year   True   22.10339         0   74.437758     7.650891  9.744733    False  False
+1-year   True  73.998032         0  280.963228     4.160901     4.502    False  False]
+10 ['2088.HK', '3999.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.095667         1  0.358303     0.378062  0.437185    False  False
+10-year  True  1.218391         1  0.340805     0.332044  0.386613    False  False
+5-year   True  2.567567         1  0.268378      0.43473   0.45973    False  False
+3-year   True  5.866667         1    0.1456      0.14916  0.162933    False  False
+1-year   True  4.909985         1  0.240131         0.11      0.12    False  False]
+11 ['8178.HK', '8271.HK',          X_coe        Ratio X_padding     Offset Warning line   Threshold Pre-test   Test
+full     False  1061.699373         1  84.348649   266.897401  420.984862    False  False
+10-year  False    160.74987         1  11.459989    12.259939   14.925522    False  False
+5-year   False   233.198876         1  16.656313     7.828762    9.149118    False  False
+3-year   False    41.181126         1   1.757403     1.372678    1.499615    False  False
+1-year   False     49.84589         1   1.617583      0.77995    0.870009    False  False]
+12 ['0438.HK', '1228.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   2.42322         0   1.64482     3.024132   3.39979    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  3.731147         0  1.168584     3.467812  3.579501    False  False]
+13 ['0873.HK', '0616.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.000006         0  0.894999     3.632922  5.615244    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year   False  1.014664         0  0.884435     3.392378  5.387389    False  False
+1-year    True  1.131859         0  0.812448     0.546735  0.601697    False  False]
+14 ['3933.HK', '8197.HK',          X_coe    Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  19.6231         0  1.433984     1.490956  1.833878    False  False
+10-year    NaN      NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN      NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN      NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False        0         0  3.687217     1.139729  1.270321    False  False]
+15 ['8049.HK', '8197.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.297422         0  0.373064     0.085133  0.099457    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False         0         0   0.52616     0.085133  0.097238    False  False]
+16 ['0823.HK', '0778.HK',          X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     False   9.966905         1   4.373063    15.053016  16.582041    False  False
+10-year  False  12.750106         1  24.212645    12.291333  13.580871    False  False
+5-year   False  11.606141         1  16.294599      6.97084   7.867657    False  False
+3-year   False  10.006515         1   8.598982     6.833683   7.635388    False  False
+1-year   False   6.708243         0    5.83833     3.381682   4.469777    False  False]
+17 ['0225.HK', '0160.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  4.913051         1  2.315385     2.534398  2.885411    False  False
+10-year  False   4.21622         1   0.54999     2.221942  2.552962    False  False
+5-year   False  4.820858         1  1.099156     2.430428  3.256013    False  False
+3-year   False  2.596152         0  2.209195     1.670076  1.769653    False  False
+1-year   False  3.596467         0  0.876964     0.635343  0.783219     True  False]
+18 ['0813.HK', '0832.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   8.568475         0  1.125722     3.490353  4.597147    False  False
+10-year  False   9.318163         1  0.256862     4.368176  5.681507    False  False
+5-year   False   9.367881         1  0.239221      4.57637  5.353086    False  False
+3-year   False    7.44499         1  0.088729     3.682523  5.025904    False  False
+1-year   False  28.432464         1  1.765482     2.153759  2.290235    False  False]
+19 ['0012.HK', '0016.HK',         X_coe     Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  2.968181         1   8.564983    13.843307  16.261545    False  False
+10-year  True  3.051214         1   5.638256    11.253452  16.089517    False  False
+5-year   True  2.304316         1  28.664366    12.193296  13.810524    False  False
+3-year   True  2.608358         1  22.747911    14.219557  14.987179    False  False
+1-year   True  5.672326         0  42.228414     7.763976   8.895928     True  False]
+20 ['1918.HK', '1966.HK',          X_coe      Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     False  11.878155         1   4.26834     6.920792   9.750196    False  False
+10-year  False  11.517506         1  2.898514     9.159419  10.923639    False  False
+5-year   False  10.745529         1  0.593067     7.613826   8.571543    False  False
+3-year   False   9.381302         1  0.339152     6.103186   7.157249    False  False
+1-year   False   5.809683         0  0.216928     1.940351   2.164072    False  False]
+21 ['0257.HK', '0371.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.791467         0  0.000896     1.108593  1.353686    False  False
+10-year  False  2.000094         1  0.694386     1.298119  1.555149    False  False
+5-year   False  1.593899         0  0.018847     0.672178  0.805308    False  False
+3-year   False  2.433707         1  1.368539     0.757524  0.919988    False  False
+1-year   False  1.813773         1  0.405762     0.322824  0.374642    False  False]
+22 ['0158.HK', '0089.HK',          X_coe      Ratio X_padding      Offset Warning line  Threshold Pre-test   Test
+full     False  56.373211         1   51.245994    35.663568  42.661029    False  False
+10-year  False  47.800798         1   13.444282    38.463793  49.588955    False  False
+5-year   False  71.591578         1  105.117777    49.538653  61.278777    False  False
+3-year   False  36.676297         0    3.247791    29.655158  42.800053    False  False
+1-year   False  21.775547         0   41.924787     9.743398  10.495867    False  False]
+23 ['0089.HK', '0287.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  3.706286         0  2.296108     3.100771  4.053117    False  False
+10-year  True  4.713675         0  5.907943     4.091127   4.70367    False  False
+5-year   True  4.313685         0  6.298317     2.806131  3.648749    False  False
+3-year   True  2.908896         0  2.484973     1.822417   2.21845    False  False
+1-year   True  1.427406         1  1.346186     0.556449  0.606925    False  False]
+24 ['0020.HK', '0588.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  11.052129         1  6.623948     1.470594  1.665039    False  False
+10-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False   7.698575         1   4.24106     0.578499  0.690672    False  False]
+25 ['0411.HK', '2319.HK',         X_coe     Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  3.370671         0   2.302816    10.066289  12.125017    False  False
+10-year  True  3.371018         0   1.398235    12.886605  14.675925    False  False
+5-year   True  4.223494         0  12.310518    10.943465  14.912462    False  False
+3-year   True  4.388881         0   14.58223     7.597963   9.028498    False  False
+1-year   True  5.354821         0  23.353411     7.371545   8.244095    False  False]
+26 ['0898.HK', '0219.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.167989         1    0.7155     0.694852  0.770651     True   True
+10-year  True  1.800441         0  0.441898     0.542593  0.634409    False  False
+5-year   True  2.123205         0    0.7561     0.432907  0.506305    False  False
+3-year   True  1.117299         1   0.01968      0.27704   0.33704    False  False
+1-year   True  2.792487         0  1.269498     0.321277   0.34205    False  False]
+27 ['3383.HK', '0832.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   3.06165         0  0.763311     1.840569  2.360451    False  False
+10-year  False  3.142652         0  0.570594     1.985604  2.690641    False  False
+5-year   False  2.941539         0  0.532762     2.231404  3.057632    False  False
+3-year   False  3.569449         0   0.44856      2.02285  2.767439    False  False
+1-year   False  8.032963         0  0.057929     0.166286  0.207834    False  False]
+28 ['0893.HK', '2889.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.061321         1  0.549962        0.643  0.719325    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year   False  61.20877         1  14.20494        0.557  0.708797     True  False
+3-year   False         0         0     0.168        0.187     0.217    False  False
+1-year   False         0         0   0.16635      0.15365   0.16365    False  False]
+29 ['2618.HK', '0482.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  83.801478         0  3.804926     6.470506  7.804458    False  False
+10-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  49.590908         0  5.469455     1.875248  2.161401    False  False]
+30 ['0666.HK', '0021.HK',          X_coe       Ratio X_padding   Offset Warning line Threshold Pre-test   Test
+full     False  153.749995         0  6.35125       2.2075   3.11125    False  False
+10-year    NaN         NaN       NaN      NaN          NaN       NaN      NaN    NaN
+5-year     NaN         NaN       NaN      NaN          NaN       NaN      NaN    NaN
+3-year     NaN         NaN       NaN      NaN          NaN       NaN      NaN    NaN
+1-year     NaN         NaN       NaN      NaN          NaN       NaN      NaN    NaN]
+31 ['0666.HK', '1140.HK',          X_coe       Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  106.956532         0  2.306955     4.492175  5.705218    False  False
+10-year    NaN         NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN         NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN         NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year     NaN         NaN       NaN       NaN          NaN       NaN      NaN    NaN]
+32 ['0136.HK', '2700.HK',          X_coe      Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     False   1.917405         0   0.58643     55.43878  88.458998    False  False
+10-year   True    1.98554         0   1.95836     8.286334  14.114411    False  False
+5-year   False    9.46245         1  1.761423     6.491836   8.031248    False  False
+3-year   False  38.984619         1  9.355693     4.847355   5.607639    False  False
+1-year   False   9.153332         1    1.0587       0.5275   0.680143    False  False]
+33 ['1003.HK', '0764.HK',          X_coe      Ratio X_padding    Offset Warning line    Threshold Pre-test   Test
+full     False    1.62945         0   0.16253   690.665637  1479.520848    False  False
+10-year  False   3.462891         0  0.482227       1.7305     1.913917    False  False
+5-year   False   6.744949         0  0.319263     0.378273     0.510197    False  False
+3-year   False   6.131387         0  0.335693     0.398671     0.574318    False  False
+1-year   False  11.445198         0  0.076411     0.242425     0.261774    False  False]
+34 ['2266.HK', '0181.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  6.923654         1  0.377365     0.504284   0.60176    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year   False  3.525652         1   0.03904     0.160641  0.227986    False  False
+3-year   False  2.906977         0  0.018023     0.144709  0.186983    False  False
+1-year   False  5.945946         1  0.252973     0.131203     0.165    False  False]
+35 ['2007.HK', '1966.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.478979         1  0.512615     1.957814  2.281232    False  False
+10-year  False  3.529603         1  0.438602     1.988891  2.310856    False  False
+5-year   False   2.91736         0  0.231401     1.311083  1.492285    False  False
+3-year   False  2.845647         0   0.23616      1.37098  1.529541    False  False
+1-year   False  2.654424         0  0.216528     0.246843  0.432588    False  False]
+36 ['0278.HK', '0287.HK',         X_coe      Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     True   1.827552         1    1.10075     1.952208  2.193679     True   True
+10-year  True   2.244441         0   1.609702     1.875441  2.259346     True   True
+5-year   True   2.170106         0   2.791919     2.350639  2.545432    False  False
+3-year   True    9.42548         0  32.264712     2.464991  3.185432    False  False
+1-year   True  21.435635         0  80.120761     1.578793  1.578793    False  False]
+37 ['2238.HK', '0425.HK',         X_coe     Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  4.480582         0   2.212021     8.137465    9.21025    False  False
+10-year  True   4.20968         0    2.93754     7.191207   8.298618    False  False
+5-year   True  4.506169         0   0.615868    10.248015  11.193931    False  False
+3-year   True   4.95911         0   2.767517     9.638155  11.116899    False  False
+1-year   True  7.327976         0  11.266802     3.599929   3.941496    False  False]
+38 ['0020.HK', '1238.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.783124         1  0.249699     1.252552   2.43368    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  2.554054         1  0.743514      0.47423  0.569919    False  False]
+39 ['0732.HK', '1228.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  3.914778         0  2.203864     1.176779  1.448171    False  False
+10-year   NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   True  5.397788         0  3.089874     0.652129  0.803692     True  False]
+40 ['1398.HK', '0939.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  1.241149         0  0.310962     0.290673  0.330279    False  False
+10-year   True  1.183645         0  0.063109     0.277917  0.323825    False  False
+5-year   False  1.071318         1  1.080012     0.271125  0.314772    False  False
+3-year    True  1.224843         0  0.039619     0.167138  0.224674    False  False
+1-year    True  1.405843         0  0.803396     0.140344  0.152894    False  False]
+41 ['0020.HK', '2777.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.382172         1  1.538316     1.177422  1.577544    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  2.486842         1  1.597105     0.604921  0.747526    False  False]
+42 ['0020.HK', '1387.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.985259         1  1.738771     1.682946    1.8385    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False         0         0      0.84        1.732      1.89    False  False]
+43 ['0053.HK', '0270.HK',          X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test  Test
+full     False   6.485387         0  30.199793    15.295586  16.865283     True  True
+10-year  False    7.45118         0  16.707328    14.183509  17.301601     True  True
+5-year   False   7.985148         0  12.220248    12.237773  15.619809     True  True
+3-year   False   7.051147         0  18.246155     9.127763   11.99624     True  True
+1-year   False  14.274648         1  13.288453    25.630528  33.996745     True  True]
+44 ['3988.HK', '1288.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.079295         1  0.225278     0.295852  0.357169    False  False
+10-year   True   1.11215         0   0.32286     0.245335  0.298591    False  False
+5-year   False  1.120457         1  0.357898     0.226623  0.266779    False  False
+3-year    True   1.20607         0  0.572309     0.163232  0.186349    False  False
+1-year    True  1.446614         0  1.268969     0.187249  0.212518    False  False]
+45 ['0025.HK', '0270.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.444701         0  1.855189     3.275308  4.179475    False  False
+10-year  True  2.033584         0  6.937036     3.205337  4.299839    False  False
+5-year   True  1.933865         0   5.14323     2.644784  3.045758    False  False
+3-year   True  1.236801         0  0.919388     1.869472  2.036472    False  False
+1-year   True  1.213645         0  0.934995     0.888423   0.95172    False  False]
+46 ['0089.HK', '0224.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.019716         0  0.667771     1.015388  1.232935    False  False
+10-year  False  1.763068         0  1.083593     1.042463  1.170717    False  False
+5-year   False  1.678267         0    1.5413     0.787918  0.861424    False  False
+3-year   False  4.789491         1  1.122118     0.950435  1.048819    False  False
+1-year   False  6.150623         1  2.245455     0.805421  0.879702    False  False]
+47 ['8197.HK', '0719.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  10.072798         1  1.881404     0.609223  0.688679    False  False
+10-year   NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   True          0         1  3.028226     0.679769  0.735093    False  False]
+48 ['1228.HK', '0986.HK',          X_coe       Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  131.545453         1     3.894     1.785927  2.291054     True  False
+10-year    NaN         NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN         NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN         NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False   67.958332         1  1.785667     0.983042  1.087333     True   True]
+49 ['8130.HK', '0326.HK',          X_coe      Ratio X_padding     Offset Warning line    Threshold Pre-test   Test
+full     False  31.246147         1  10.067747   679.776202  1210.526126    False  False
+10-year   True   4.663873         1   0.160377     1.094821     1.302864    False  False
+5-year    True   6.602158         1   0.556884     0.872266     0.995463    False  False
+3-year    True   9.304688         1   0.609039     0.146292     0.194273    False  False
+1-year    True        7.5         1     0.6045      0.14565     0.184175    False  False]
+50 ['3883.HK', '0817.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.769511         1  1.973509     1.785556  2.341137    False  False
+10-year  False   2.91371         1  2.258114     2.060329   2.66676    False  False
+5-year   False   2.84926         1  1.950495     2.783045   3.41071    False  False
+3-year   False  4.216929         1  2.648343     5.113396  6.119748    False  False
+1-year   False  1.137553         1  0.530008     0.441486  0.484166    False  False]
+51 ['0432.HK', '0666.HK',         X_coe       Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     True  158.709663         0  18.829028     2.995485  3.223871    False  False
+10-year   NaN         NaN       NaN        NaN          NaN       NaN      NaN    NaN
+5-year    NaN         NaN       NaN        NaN          NaN       NaN      NaN    NaN
+3-year    NaN         NaN       NaN        NaN          NaN       NaN      NaN    NaN
+1-year    NaN         NaN       NaN        NaN          NaN       NaN      NaN    NaN]
+52 ['1202.HK', '1228.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  7.647991         0  4.677154     1.210603  1.520331    False  False
+10-year   NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   True  6.040741         0  3.658297     0.992959  1.039209    False  False]
+53 ['0158.HK', '0225.HK',          X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     False  12.524268         1   6.929522    32.015832    37.7913    False  False
+10-year  False   9.469532         0     39.595    26.872472  29.234299    False  False
+5-year   False  12.408498         0  22.239084    17.108833  24.840575    False  False
+3-year   False  11.817868         0  24.776898    21.547169  26.199038    False  False
+1-year   False  15.067604         0   3.887653    21.254783  24.275102    False  False]
+54 ['0760.HK', '8136.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   5.050681         1  0.011824     0.436535  0.550474    False  False
+10-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year   False  11.166895         1  0.263608     0.282528  0.353074    False  False
+3-year   False   6.873025         1  0.115556      0.28799  0.342908    False  False
+1-year   False   37.76337         1  1.159535     0.181237  0.208763     True   True]
+55 ['1184.HK', '0856.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  1.798306         0  0.029906     1.492947  1.921381     True   True
+10-year   True  1.802689         0  0.054497     1.878095  2.185235     True  False
+5-year    True  1.507597         1  0.756624     2.002529  2.159862    False  False
+3-year    True  1.732963         0  0.273737     2.017736  2.569001    False  False
+1-year   False  1.063573         1   1.08972     0.352525  0.419648    False  False]
+56 ['0213.HK', '0912.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  1.717951         0  0.070324      0.36123  0.455501    False  False
+10-year   True  2.063195         0  0.409664     0.460725   0.50092    False  False
+5-year    True  1.674082         0  0.160435     0.376362  0.443276     True  False
+3-year    True   1.55916         1  0.171208     0.509716  0.550225    False  False
+1-year   False  1.949152         1  1.655268     0.165018  0.225885     True   True]
+57 ['3889.HK', '2088.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.239651         1  0.016776     0.376519  0.492784    False  False
+10-year   True  1.175676         0  0.011419       0.1538   0.17975    False  False
+5-year    True  2.368758         0  0.090601     0.104465  0.166837    False  False
+3-year    True  1.470588         0  0.040059     0.029188  0.038579    False  False
+1-year    True  1.131481         0   0.02673     0.022211  0.028813    False  False]
+58 ['0606.HK', '0073.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  11.430996         0  1.372568     6.478221  8.033567    False  False
+10-year   NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   True   8.579085         1  0.002307     2.809811  3.384234    False  False]
+59 ['0589.HK', '0294.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.161176         1  1.052294     0.371887  0.440898    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year   False  1.192639         1  1.091903     0.373559  0.461227    False  False
+1-year    True  1.579587         1  0.828311     0.145022  0.168946    False  False]
+60 ['0845.HK', '0563.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.375702         1  0.371744     0.976756  1.230917    False  False
+10-year  True  1.173383         1  0.393266     0.452516  0.511951    False  False
+5-year   True  2.619142         1  0.328809     0.305601  0.334996    False  False
+3-year   True  1.626921         1  0.328731     0.099623  0.116562    False  False
+1-year   True  2.491903         1  0.305081         0.08      0.09     True  False]
+61 ['0184.HK', '0001.HK',         X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  10.115083         1  13.225451     9.425818  11.007088    False  False
+10-year  True   8.598824         1  23.455412     7.707142   8.855845    False  False
+5-year   True   8.163391         1  23.942917     5.991842   6.819464    False  False
+3-year   True   7.160075         1  25.672002     6.644534   7.195351    False  False
+1-year   True  11.028501         1  17.854708     3.268586    3.54965    False  False]
+62 ['0089.HK', '0688.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  7.091407         0  6.642736     5.230222  5.911387    False  False
+10-year  True   5.45423         1  0.357385     4.147363  5.121156    False  False
+5-year   True  6.911761         0   5.99493     4.158331     4.672    False  False
+3-year   True  6.821558         0  4.602249     5.545099  5.839678    False  False
+1-year   True  4.927555         1  0.269103     1.818671  2.100829    False  False]
+63 ['3883.HK', '0832.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.127051         1   0.02684     2.629124  2.885031    False  False
+10-year  False  3.027164         0  0.487478     2.816801   3.04465    False  False
+5-year   False  3.231736         1  0.096165     1.944437  2.549056    False  False
+3-year   False  2.779565         1  0.057734     0.982401  1.686612    False  False
+1-year   False  7.281261         1  0.404038     0.681162  0.769265    False  False]
+64 ['0237.HK', '0212.HK',         X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  11.503443         1   2.462106    11.644169  13.852791    False  False
+10-year  True  11.203547         1   4.225626     13.32115  14.922625    False  False
+5-year   True  18.758052         0  12.462828     8.263807   9.105481    False  False
+3-year   True  12.475188         0   0.094735     3.686228   4.528007    False  False
+1-year   True  12.265461         1   0.318279      2.57376   2.929237    False  False]
+65 ['0646.HK', '1280.HK',         X_coe     Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     True  4.478718         0   0.73319     9.484026  10.375858    False  False
+10-year  True  4.074468         0   0.57234     6.058296    8.36234    False  False
+5-year   True   9.28546         0  1.865112     3.765254   4.298991    False  False
+3-year   True  2.380909         0  0.031418     0.989982   1.362389    False  False
+1-year   True  5.112976         0  0.527934     1.714748   1.838889    False  False]
+66 ['0893.HK', '0103.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  5.693476         1    0.7291     0.780012  0.917754    False  False
+10-year  False  4.646598         1  0.576889     0.415536  0.475243    False  False
+5-year   False  1.741381         1  0.182585     0.205106  0.239536    False  False
+3-year   False  1.180163         1  0.145093     0.067907  0.076159    False  False
+1-year    True  2.060606         1  0.059909     0.061215  0.066746    False  False]
+67 ['8197.HK', '0950.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  31.602721         0  0.030608     2.467248  2.780418    False  False
+10-year   NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   True          0         1  3.520816     2.744422   3.00555    False  False]
+68 ['8070.HK', '8290.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   8.793103         1  0.035862     0.230828  0.339759    False  False
+10-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year   False   6.206897         0  0.005862     0.131345     0.145     True   True
+3-year   False  10.727273         1  0.027545     0.109273  0.118823    False  False
+1-year   False  12.857139         1  0.044286     0.080857      0.09    False  False]
+69 ['0256.HK', '0679.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.386739         1  0.130515     0.436623  0.500708    False  False
+10-year   True  1.016744         0   0.40663     0.321927  0.399663    False  False
+5-year   False  1.365636         1  0.139264     0.243384  0.312536    False  False
+3-year   False  1.734815         1   0.47334     0.269635  0.329373    False  False
+1-year   False  1.275445         1  0.032952     0.136068  0.152493    False  False]
+70 ['1387.HK', '0845.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  4.965367         0  0.395594     3.057625  3.822666    False  False
+10-year  False  3.149123         0  0.628509     1.475263   1.73386    False  False
+5-year   False  5.589041         0   0.60411     0.583129  0.678453    False  False
+3-year   False  6.919831         0  0.590802     0.588785  0.688869    False  False
+1-year    True         0         1      0.01        0.064   0.06855    False  False]
+71 ['0928.HK', '3398.HK',          X_coe       Ratio X_padding      Offset Warning line   Threshold Pre-test   Test
+full     False  704.432913         1  210.884882    207.85114  275.112432    False  False
+10-year  False  156.421392         1   44.967202    23.881417   32.597949    False  False
+5-year   False   11.546877         1    2.835391     0.662891    0.745336    False  False
+3-year   False    6.787541         1    1.439577     0.468975    0.496647    False  False
+1-year   False    3.290617         1    0.688966     0.199546    0.353962    False  False]
+72 ['1628.HK', '1966.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.232672         1  0.361619     0.725853  1.153562    False  False
+10-year  False  1.242524         1  0.301277     0.950393  1.399726    False  False
+5-year   False   1.01982         1  0.064418     1.054763  1.238686    False  False
+3-year    True  1.515465         1  0.019864     0.767586  0.863515    False  False
+1-year    True  2.998748         0  0.081902     0.154797  0.171562    False  False]
+73 ['0020.HK', '2007.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.023025         0  0.204539     0.979854  1.364214    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  1.188679         0  0.103019     0.464226   0.51317    False  False]
+74 ['0912.HK', '0099.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.534701         1  0.106949     0.498597  0.593213     True   True
+10-year  True  1.577064         1  0.106551     0.580738  0.667487     True   True
+5-year   True  2.115971         0  0.536486     0.733476  0.805436     True  False
+3-year   True  1.191428         1  0.122071     0.417094  0.492302    False  False
+1-year   True  2.076978         0  0.962513     0.240105  0.280316     True  False]
+75 ['0278.HK', '0225.HK',         X_coe      Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     True   2.219481         1   0.586883     2.007839  2.418315     True   True
+10-year  True   2.403562         0   0.998085     2.273167  2.520966     True   True
+5-year   True   2.902519         0   5.573864     3.643915  3.855021    False  False
+3-year   True  10.055927         0  33.593387      3.13454  3.835357    False  False
+1-year   True  21.702691         0   79.95747     1.168983  1.294748    False  False]
+76 ['0645.HK', '1880.HK',         X_coe       Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  918.269861         0  19.893716     47.45646  52.952474    False  False
+10-year   NaN         NaN       NaN        NaN          NaN        NaN      NaN    NaN
+5-year    NaN         NaN       NaN        NaN          NaN        NaN      NaN    NaN
+3-year    NaN         NaN       NaN        NaN          NaN        NaN      NaN    NaN
+1-year   True  683.327434         1   5.889723    27.996703  31.141302    False  False]
+77 ['0814.HK', '3389.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.684475         0  0.203436     1.154743  1.385823    False  False
+10-year  False  1.587054         0  0.307812     0.519024  0.644266    False  False
+5-year   False  2.812517         0  0.103748     0.150481  0.174514    False  False
+3-year   False  3.500885         0  0.002135     0.212351  0.245365    False  False
+1-year   False  8.181819         1  0.607273       0.1055  0.129455    False  False]
+78 ['2007.HK', '1918.HK',         X_coe     Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     True  3.456978         0  3.010696     7.698853   9.512843    False  False
+10-year  True  3.263116         0  1.467304      8.82379   9.960039    False  False
+5-year   True  3.683306         0  1.445388     10.99798  12.231825    False  False
+3-year   True  3.296721         0  1.117704     9.992617  11.084467    False  False
+1-year   True  2.188679         0  0.256981     2.153887   2.484773    False  False]
+79 ['0213.HK', '0256.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  1.717957         0  0.029761      0.47251  0.537433    False  False
+10-year   True  2.316599         0  0.642853     0.441699  0.522515    False  False
+5-year    True  1.814574         0  0.192076     0.412858  0.482432    False  False
+3-year    True  1.587498         1  0.021464     0.450685  0.532627    False  False
+1-year   False  1.519405         1  0.990181     0.171597  0.205068    False  False]
+80 ['1338.HK', '0704.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True   6.454959         0  0.117388     4.331033  5.692673    False  False
+10-year  True  11.173489         0  0.357154     2.356655  3.013892    False  False
+5-year   True  20.336807         0  0.781706     1.125477    1.2927    False  False
+3-year   True   2.460667         1  0.012181     0.155022  0.177168    False  False
+1-year   True  11.636364         0  0.385364     0.058182  0.073091    False  False]
+81 ['0029.HK', '0960.HK',         X_coe     Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  2.461728         1   2.600426     8.226239  12.189747     True  False
+10-year  True  2.782872         0   1.091386     9.911459  12.493839     True  False
+5-year   True    4.0108         0  18.398924    11.987068  13.960983    False  False
+3-year   True  4.642144         0  24.225534    13.675601  14.830453    False  False
+1-year   True  2.687757         0  11.505573     5.562841   6.470527    False  False]
+82 ['0576.HK', '0177.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.525505         0  0.960542     1.455429  1.742333    False  False
+10-year  True  1.321684         1  0.089146     1.528488    1.7714    False  False
+5-year   True  1.206205         1  1.171749     1.233368  1.357096    False  False
+3-year   True  1.868404         0  3.288332     0.814082  1.010659    False  False
+1-year   True  1.380679         0   0.12996     0.636659  0.723597    False  False]
+83 ['1193.HK', '0270.HK',          X_coe     Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     False  3.296809         0   0.250717     6.988475   8.870848     True   True
+10-year  False  3.356218         1   1.068798      9.01605  11.718488     True  False
+5-year   False   2.90637         0   6.960073     9.183184  10.446741    False  False
+3-year   False   4.94119         1    3.06681     7.797617   11.11215    False  False
+1-year   False  2.518905         0  10.202318     2.759302    3.22717     True   True]
+84 ['0011.HK', '0939.HK',          X_coe      Ratio X_padding      Offset Warning line  Threshold Pre-test   Test
+full     False  30.131396         1    0.510405    31.748381  36.744895     True   True
+10-year  False  32.841399         1    13.34317    32.906271  41.710477     True   True
+5-year   False  82.781199         1  261.882218    36.382108  45.940373     True   True
+3-year   False  58.336791         1  158.652619    29.195191  33.207515     True   True
+1-year   False  41.572999         1   95.757939    20.550127  22.401819    False  False]
+85 ['2618.HK', '0500.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  45.337521         1  1.208517     5.137875  6.023462    False  False
+10-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  61.386188         1  4.566806     4.292954  4.776202    False  False]
+86 ['1052.HK', '0548.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  1.605957         0  0.263268     1.223192  1.388874    False  False
+10-year   True  2.097021         0  2.740623     1.312321  1.660953     True  False
+5-year    True  1.117903         1  1.942117     0.620059  0.710593    False  False
+3-year   False  1.079563         1   3.12011     0.551372  0.636735    False  False
+1-year   False  1.081357         1  3.064392     0.564817  0.624078    False  False]
+87 ['0225.HK', '0287.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.214455         1  0.749928     2.731004  3.509989    False  False
+10-year  False  1.070895         0  0.725746     1.836936  2.132248    False  False
+5-year   False  1.337502         1  1.839673     1.507533  1.657469     True  False
+3-year   False  1.066887         0  0.829441     0.857576  1.133326    False  False
+1-year   False  1.012458         0  1.161475     1.169676  1.399837    False  False]
+88 ['0225.HK', '0688.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.575477         0  1.067994      6.43618  7.299371    False  False
+10-year  True  1.080505         1  6.409343     4.201145  4.737505    False  False
+5-year   True   1.19797         1  6.300653     3.650784  4.158597    False  False
+3-year   True  2.198048         0  0.597972     5.793663  6.142686    False  False
+1-year   True  3.409625         0  8.338261     2.885941  3.393251    False  False]
+89 ['2388.HK', '0011.HK',         X_coe     Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  4.786552         1  14.084064    19.320564  23.447275     True   True
+10-year  True  5.236379         1   4.596756    23.971411  26.476466     True   True
+5-year   True  8.355655         0  69.215399    27.687585  30.745899    False  False
+3-year   True  8.276909         0  85.298849    30.604969  32.615985    False  False
+1-year   True  6.125357         0  36.363192     6.521946   7.961332     True  False]
+90 ['0440.HK', '2356.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.051546         0  0.234218     4.663792  5.298311    False  False
+10-year  False  2.960922         0  1.578014     4.254457   4.91736    False  False
+5-year   False  2.224279         0  5.020236     2.733811  3.086507    False  False
+3-year   False  2.778778         0  2.389627     2.237874  2.617642    False  False
+1-year   False   3.51489         1  1.338993      0.93832  1.033209    False  False]
+91 ['1280.HK', '0953.HK',          X_coe      Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     False  29.048391         1  2.640565     8.922019  10.971633    False  False
+10-year  False  20.437567         1  1.659445     6.484856   8.488949    False  False
+5-year   False  58.303569         1  5.843393     3.360732    4.13291    False  False
+3-year   False      14.55         1    1.0314     1.002165   1.698375    False  False
+1-year   False  15.860514         1  1.248931     1.907757   2.192013    False  False]
+92 ['0251.HK', '0075.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  5.391107         0  1.262688     5.165783  6.343285    False  False
+10-year  False  5.567413         0  0.586515     6.082591  6.753628    False  False
+5-year   False  4.024106         0  0.271081      2.63979  3.314234    False  False
+3-year   False  4.285595         0  0.198407     1.528897  1.838064    False  False
+1-year   False  2.314614         0  0.829324     0.314269      0.33     True   True]
+93 ['3988.HK', '2388.HK',         X_coe      Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     True  13.023962         0   8.252876     5.015343  6.248167     True   True
+10-year  True  12.710195         0   7.623342     5.895384  7.461398     True   True
+5-year   True   9.578833         0   0.895519     4.463569  6.131624     True   True
+3-year   True   9.805738         0   1.981706     5.019053  7.523244     True   True
+1-year   True  11.106521         0  10.895392     3.274085   3.77263     True  False]
+94 ['0848.HK', '0980.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  7.594339         0  1.182405     2.446287  3.039737    False  False
+10-year  True  5.079559         0    0.5494     0.733587  0.880168    False  False
+5-year   True  3.800261         0  0.303444     0.396127  0.449146    False  False
+3-year   True  4.952746         0  0.504953     0.184367  0.197807    False  False
+1-year   True  3.587978         0  0.336002     0.100439  0.108934    False  False]
+95 ['0928.HK', '0627.HK',         X_coe      Ratio X_padding     Offset Warning line    Threshold Pre-test   Test
+full     True    3.12713         0   0.291573  1078.867153  1078.867153    False  False
+10-year  True   3.037097         0   0.469653    90.024563    109.49539    False  False
+5-year   True  53.585928         0  17.719216      27.6898    34.707524    False  False
+3-year   True   2.082192         0   0.019726     0.832877     0.895342     True   True
+1-year   True    2.90429         1    0.15604     0.934214     0.980363     True   True]
+96 ['0224.HK', '0287.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True   7.485647         1  0.178843     1.310366  1.544768     True   True
+10-year  True   8.310531         0  0.800241     1.556196  1.864289    False  False
+5-year   True   7.239511         1  0.350367     1.441976  1.689791     True  False
+3-year   True  13.932124         0  5.749093     1.989276  2.295994    False  False
+1-year   True    8.77944         0  1.858991     1.418452  1.418452    False  False]
+97 ['0158.HK', '0224.HK',          X_coe       Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     False  113.857909         1  13.601594    43.512755  46.623139    False  False
+10-year  False    84.27605         0  38.352334    28.781707  32.433294    False  False
+5-year   False  120.149717         0   5.226358    22.875114  28.235469    False  False
+3-year   False  175.660766         1  37.907332     20.98388  25.462468    False  False
+1-year   False  133.933202         1   6.971237    22.308834  24.987495    False  False]
+98 ['0287.HK', '0160.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  4.045478         1   1.28902     2.304185  2.659344    False  False
+10-year  False    3.9371         1  1.191282     2.231329  2.599839    False  False
+5-year   False  3.604376         0  0.553655     1.797194  2.821431    False  False
+3-year   False  2.433391         0  1.293253     1.323528  1.571672    False  False
+1-year   False  3.552213         1   0.28101     0.840565  1.087912    False  False]
+99 ['0072.HK', '0685.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   1.319744         1  0.111021     0.530633  0.651661    False  False
+10-year  False   1.295465         1   0.09943     0.510932  0.675645    False  False
+5-year   False    3.42074         1  0.502413     0.366897  0.486931    False  False
+3-year   False   6.732102         1  1.094635       0.6726  0.742098    False  False
+1-year   False  14.392001         1   2.39466     0.538544  0.584618    False  False]
+100 ['0914.HK', '1313.HK',          X_coe     Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     False  5.108221         0   2.533352      5.36221   6.40845     True   True
+10-year  False  4.558677         0   7.169575     3.880487  4.724517     True  False
+5-year   False  3.957283         0   11.18253     3.106053  3.601983    False  False
+3-year   False  3.717716         0  12.099822      2.42039  2.977159    False  False
+1-year   False  3.456621         0  11.722525     1.920165  2.096034    False  False]
+101 ['0451.HK', '1228.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.918589         0  0.260959     1.667947  2.361965    False  False
+10-year   NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   True  5.169572         0  1.472046      0.67743  0.735832    False  False]
+102 ['0589.HK', '0375.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.287737         1  1.062737     0.344444  0.376934     True  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year   False  1.372864         1  1.111689     0.398526   0.43239     True  False
+1-year    True  1.741078         1  0.616501     0.282286  0.334034     True  False]
+103 ['0252.HK', '0025.HK',         X_coe      Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     True   2.291748         1   0.692577     2.035622  2.317729     True   True
+10-year  True   1.983214         1   1.682581     1.847071  2.303619     True   True
+5-year   True   9.493599         0  24.648503     2.989363  3.465828    False  False
+3-year   True   9.302445         0  24.616252     3.271209  3.315084    False  False
+1-year   True  11.416767         0  30.811978     1.255843  1.715019    False  False]
+104 ['0318.HK', '2324.HK',          X_coe     Ratio X_padding     Offset Warning line   Threshold Pre-test   Test
+full      True  37.46181         0  10.699924   262.258385  481.256464    False  False
+10-year   True   8.32967         0   2.188307     8.334659   15.146601    False  False
+5-year   False  1.176852         0   0.107491      0.12406    0.166528    False  False
+3-year   False  1.273649         0   0.116959     0.105561    0.132787    False  False
+1-year    True  1.574445         0     0.3191     0.059128       0.066     True   True]
+105 ['3988.HK', '0939.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True   1.95377         0  0.496556     0.785247  0.982356     True  False
+10-year   True   2.02657         0   0.66924      0.95108  1.111285     True  False
+5-year   False  1.034281         1   2.31372     0.558872  0.655501     True  False
+3-year    True  1.391252         1  0.976251     0.612669  0.738499     True  False
+1-year    True  1.636433         0  0.176639     0.275903  0.311648     True  False]
+106 ['0725.HK', '0876.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.354012         0  0.118948     0.390469  0.463996    False  False
+10-year  False  2.766561         0  0.474237     0.408367   0.54448    False  False
+5-year   False  2.026752         0  0.502635     0.245318  0.300243    False  False
+3-year   False  1.971886         0  0.488731     0.121972  0.131972    False  False
+1-year   False  4.594595         0  0.394324     0.142432  0.150811    False  False]
+107 ['0191.HK', '0160.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.161678         1   1.87673     2.339574  2.723569    False  False
+10-year  False  4.477118         1  6.482489     2.766837   3.10514    False  False
+5-year   False   4.25078         1  5.244632     2.886554  3.287285    False  False
+3-year   False  2.334456         1  2.538238     1.546887  1.698151    False  False
+1-year   False  1.316188         1  1.100015      0.19647  0.219616    False  False]
+108 ['0367.HK', '0041.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  25.041696         1  0.652597     4.987534   6.20575    False  False
+10-year  True  24.900963         1  1.229863     5.803093  6.943108    False  False
+5-year   True  19.892156         1  3.326912     4.701276  5.040267    False  False
+3-year   True  26.473651         1  0.541067     6.826174  7.652229    False  False
+1-year   True   14.91014         1  5.415944     0.936717  1.090327    False  False]
+109 ['0149.HK', '0736.HK',         X_coe      Ratio X_padding    Offset Warning line      Threshold Pre-test   Test
+full     True   4.798564         0  0.060331     63608.91  113999.155919    False  False
+10-year  True   8.008294         0  0.204348     20.54882     112.333923    False  False
+5-year   True  15.342432         0  0.595752     0.944838       1.168173    False  False
+3-year   True  14.187492         0  1.011812     0.307408       0.338131    False  False
+1-year   True   5.232406         0   0.27642     0.153518       0.163982    False  False]
+110 ['0789.HK', '0330.HK',          X_coe      Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full      True   9.836478         0  0.010227     9.794554  12.490391    False  False
+10-year   True  10.704195         0  0.172322     3.544473   3.843672     True   True
+5-year    True   2.114446         1  0.229278     0.977781   1.242945     True  False
+3-year    True    1.74071         1  0.231446     1.031074   1.085075    False  False
+1-year   False    1.52619         1  0.332548     0.610576      0.642    False  False]
+111 ['0253.HK', '0219.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  1.031901         0  0.064835     0.520028  0.622615    False  False
+10-year  False  1.132284         1  0.329638     0.499877  0.588946    False  False
+5-year    True  1.213159         1  0.002263     0.374068   0.43362    False  False
+3-year    True  1.045455         1  0.127273     0.231818  0.261614    False  False
+1-year   False  1.053816         1  0.195744      0.09836  0.126714    False  False]
+112 ['0020.HK', '1813.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.527394         0  0.204172      1.17178  1.687734    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  1.858407         0  0.060398     0.772372  0.896004    False  False]
+113 ['0089.HK', '0278.HK',          X_coe      Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full      True   2.028005         0   1.858691     1.454008  1.716846    False  False
+10-year   True   2.100154         0   1.915056     1.899885  2.117035    False  False
+5-year    True   1.987775         0    1.61577     1.983394  2.098525    False  False
+3-year   False   3.240224         1  10.237463     1.106268  1.400139    False  False
+1-year   False  15.017191         1  57.073406       0.7055    0.7255    False  False]
+114 ['0248.HK', '0876.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  2.442841         0   0.07375     0.122791  0.159402    False  False
+10-year  True  2.356763         0  0.063271     0.105877   0.12858    False  False
+5-year   True  2.493976         0  0.044325     0.077711  0.085099    False  False
+3-year   True  2.399405         0  0.041183     0.073568  0.079678    False  False
+1-year   True  1.193548         0  0.009226     0.026674      0.03    False  False]
+115 ['1918.HK', '0832.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  10.975843         1  0.200274     8.701305  9.443544    False  False
+10-year  False  10.664968         0  0.317683      7.63525   8.31034    False  False
+5-year   False  10.676864         0  0.326308     5.864481  7.273566    False  False
+3-year   False   9.532469         0  0.384983      4.84589  6.504393    False  False
+1-year   False  24.937299         1  0.845109     1.988098  2.216563    False  False]
+116 ['0194.HK', '0225.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True   1.81021         0  1.942426     2.228973  3.049419    False  False
+10-year  True  2.145964         0  5.087469     2.252791  2.636819    False  False
+5-year   True  1.966028         0  4.558093     3.104282  3.584164    False  False
+3-year   True  2.166621         0  5.280707     1.147619  1.419048    False  False
+1-year   True  1.873132         0  3.487921      0.78322   0.87684    False  False]
+117 ['8227.HK', '2618.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  21.632959         1  1.721442      5.68324   6.52103    False  False
+10-year   NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   True  21.430358         1   2.04591     4.721027  5.849526    False  False]
+118 ['0158.HK', '0688.HK',          X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     False   7.949512         0   1.560504    43.382518  50.168058    False  False
+10-year  False   8.763987         1  16.576396    41.217354  48.766249    False  False
+5-year   False  10.357934         1  43.022637    51.298102  59.733202    False  False
+3-year   False   5.376528         0  27.991901    32.874598  35.904001    False  False
+1-year   False    4.41914         0  40.735571    11.098039  12.540115    False  False]
+119 ['0670.HK', '0753.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.428959         1  0.577348     1.566051  1.807288    False  False
+10-year  True  1.351434         1  1.146419     1.365636  1.559794    False  False
+5-year   True   1.41663         1  1.469542     0.910611  1.111347    False  False
+3-year   True  1.784333         1  0.903274     0.964924  1.058402    False  False
+1-year   True  2.506967         0  0.690017     0.678056   0.73106    False  False]
+120 ['1888.HK', '0669.HK',         X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True  11.863205         0   9.957674    26.552255  35.815498     True   True
+10-year  True  10.515401         1   5.705935    34.703612  42.383029    False  False
+5-year   True  10.850503         0   1.291824    30.925016  34.359084     True   True
+3-year   True   8.894524         1  26.592412    30.916444  34.413306    False  False
+1-year   True    6.74452         1  38.541953    15.887304  21.218134     True   True]
+121 ['3883.HK', '1918.HK',         X_coe     Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     True  3.452717         0  0.343483      6.11949   8.403131    False  False
+10-year  True  3.523089         0  1.399747      7.63859  10.212554    False  False
+5-year   True  3.303755         1  0.644015      4.75556   6.074889    False  False
+3-year   True  3.429483         1  0.582982     4.340327   5.715058    False  False
+1-year   True   3.42486         1  0.538665        3.361     3.4555    False  False]
+122 ['0224.HK', '0278.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  4.095996         0  0.504449     1.083397  1.273523     True   True
+10-year   True  3.702715         1  0.360655     0.812309  0.886363    False  False
+5-year    True  3.336018         1  1.447986     0.744735  0.853521    False  False
+3-year    True  1.478135         1  2.813184     0.245627  0.367326    False  False
+1-year   False  2.441573         1  8.914212     0.206111  0.206111    False  False]
+123 ['1228.HK', '0669.HK',         X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test  Test
+full     True   8.079119         1  69.928368    16.226323  18.854366     True  True
+10-year   NaN        NaN       NaN        NaN          NaN        NaN      NaN   NaN
+5-year    NaN        NaN       NaN        NaN          NaN        NaN      NaN   NaN
+3-year    NaN        NaN       NaN        NaN          NaN        NaN      NaN   NaN
+1-year   True  13.548093         1  66.215354    16.081104  17.664726     True  True]
+124 ['0218.HK', '0227.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.297648         0    0.0651      1.00317  1.122573    False  False
+10-year  False  3.150986         0  0.001882     0.814163  1.151371    False  False
+5-year   False  2.908514         0  0.037972     0.262307  0.295963    False  False
+3-year   False  3.199752         1  0.050123     0.321764   0.33541    False  False
+1-year   False   3.72093         1  0.106977     0.101512  0.123047    False  False]
+125 ['0873.HK', '2313.HK',         X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     True   5.638902         1  56.520818    34.157355  45.189476    False  False
+10-year   NaN        NaN       NaN        NaN          NaN        NaN      NaN    NaN
+5-year    NaN        NaN       NaN        NaN          NaN        NaN      NaN    NaN
+3-year   True   5.633008         1   56.24227    35.103649  46.319498    False  False
+1-year   True  15.829729         1   49.22721    11.537112  13.560935    False  False]
+126 ['3889.HK', '1068.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  15.421039         0  0.779473     5.182675  7.699456    False  False
+10-year  True   9.213649         0  0.367937     1.057978  1.358912    False  False
+5-year   True  13.271447         0  0.640373     0.502357  0.687131    False  False
+3-year   True  15.627451         0  0.838412     0.343059  0.393071    False  False
+1-year   True   6.031481         0   0.27643     0.103037   0.12003    False  False]
+127 ['1918.HK', '0817.HK',          X_coe      Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     False   9.838097         1   7.48632     6.824098  10.360356    False  False
+10-year  False  10.265259         1  9.355285     8.402543  12.012793    False  False
+5-year   False   9.413257         1  5.799942      9.40592  10.968353    False  False
+3-year   False  14.461886         1  8.499464    16.445702  18.402656    False  False
+1-year   False   3.895961         1  1.276536     2.353864   2.670642    False  False]
+128 ['0725.HK', '0248.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  8.414309         1  0.186716     0.426834  0.496653     True  False
+10-year  False  6.520129         0  0.299195     0.395274  0.526015    False  False
+5-year   False   5.05467         0  0.412798     0.249701  0.281545    False  False
+3-year   False  4.731353         0  0.407522     0.153653  0.165565    False  False
+1-year   False  5.483872         0  0.351935      0.08871   0.09871    False  False]
+129 ['0089.HK', '0225.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  4.501117         0  3.538446     3.377529  4.386922    False  False
+10-year  True   5.04785         0   5.60104     4.260341  5.108374    False  False
+5-year   True  5.769556         0  10.26367     3.215623  3.753318     True  False
+3-year   True  3.103462         0  1.821743     1.947438  2.104666    False  False
+1-year   True   1.44519         1  2.524431     0.781487  0.925022    False  False]
+130 ['0158.HK', '0287.HK',          X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     False  15.210163         1  16.321821    45.614173  50.048851    False  False
+10-year  False  10.140874         0  46.467474    32.353518  35.988064    False  False
+5-year   False  16.596385         1   0.588461    22.372486  27.098704    False  False
+3-year   False  12.608327         0  34.579111    13.607781  19.238778    False  False
+1-year   False  15.255324         0  21.388276     7.741302    8.00468    False  False]
+131 ['0020.HK', '1966.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.879732         0  0.277338     1.509343  1.942377    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  3.155259         0  0.360401     0.451813  0.531341    False  False]
+132 ['0224.HK', '0160.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.850374         1   0.36284      0.49248  0.639929    False  False
+10-year  True  2.110826         1  0.099322     0.545347  0.681909    False  False
+5-year   True  2.008534         0  0.056401     0.738067  0.983444    False  False
+3-year   True  5.725396         0  2.894047     0.686212  0.848614    False  False
+1-year   True  2.471541         0  0.444225     0.310569  0.421731    False  False]
+133 ['0224.HK', '0219.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.628554         1  0.064475      0.56316   0.71147    False  False
+10-year  True   1.92669         0  0.465018     0.902277  0.993279    False  False
+5-year   True  2.157055         0  0.717791     0.287052  0.370952    False  False
+3-year   True  1.525705         0  0.264279     0.196841  0.246675    False  False
+1-year   True  1.955634         0  0.577613     0.197596  0.302458    False  False]
+134 ['8120.HK', '8197.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.609541         1  0.044708     0.101123   0.10605    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False         0         0  0.144109     0.092378  0.100015    False  False]
+135 ['2371.HK', '0013.HK',         X_coe       Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     True  474.185572         1  6.054474    11.700264  13.034863     True   True
+10-year   NaN         NaN       NaN       NaN          NaN        NaN      NaN    NaN
+5-year    NaN         NaN       NaN       NaN          NaN        NaN      NaN    NaN
+3-year    NaN         NaN       NaN       NaN          NaN        NaN      NaN    NaN
+1-year   True  540.999989         1     9.251       8.9978  10.214501    False  False]
+136 ['0152.HK', '1052.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.970355         1  1.120833      2.97244  4.077132     True  False
+10-year  False   3.14652         1  2.099576     3.782111   4.75421    False  False
+5-year   False  4.055195         1  7.851773      3.49271  3.829549    False  False
+3-year   False  4.267243         1   7.99898     3.828131  4.147692    False  False
+1-year   False  2.967972         1  5.887675     1.613651  1.735829    False  False]
+137 ['0224.HK', '0225.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True   9.090981         0  0.532731     2.269754   2.78935    False  False
+10-year  True   8.899706         0  0.131228     1.914902  2.135288    False  False
+5-year   True    9.68286         0  1.371057     2.389378  2.495244    False  False
+3-year   True  14.863997         0   5.30419     2.182319  2.708597    False  False
+1-year   True   8.888817         0  0.720676     0.632543  1.398572    False  False]
+138 ['0213.HK', '0099.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  2.636542         0  0.000977     0.535346  0.659596    False  False
+10-year  True  3.253793         0  0.539517     0.694946  0.783798    False  False
+5-year   True  3.542309         0  0.875962     0.736045  0.789273    False  False
+3-year   True  1.857625         1  0.326054      0.31414  0.373352    False  False
+1-year   True   1.06558         1  0.801308     0.195454  0.222786    False  False]
+139 ['0087.HK', '0019.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  6.252829         0  0.971109     5.098119  6.579955    False  False
+10-year  True  6.229179         1  0.456171     5.221282  6.474564    False  False
+5-year   True  7.494301         0  5.924234     3.025313   4.34642     True   True
+3-year   True  6.716315         0  2.178345     3.069406  3.414525    False  False
+1-year   True  6.365163         1  0.546425     1.993195  2.225221    False  False]
+140 ['0519.HK', '8136.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   1.89319         0  0.000845     0.158748  0.180625    False  False
+10-year    NaN       NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year   False  3.731992         1  0.067352     0.095429  0.139454    False  False
+3-year   False  1.114694         0  0.021986     0.052363  0.066096    False  False
+1-year   False  5.343512         1   0.12274     0.027656     0.032    False  False]
+141 ['2018.HK', '2618.HK',          X_coe     Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     False  1.211857         0  3.681207     9.220976  10.049383     True  False
+10-year    NaN       NaN       NaN       NaN          NaN        NaN      NaN    NaN
+5-year     NaN       NaN       NaN       NaN          NaN        NaN      NaN    NaN
+3-year     NaN       NaN       NaN       NaN          NaN        NaN      NaN    NaN
+1-year   False  1.482543         0  2.632992     6.072211   6.600004     True   True]
+142 ['2388.HK', '0939.HK',          X_coe     Ratio X_padding     Offset Warning line Threshold Pre-test   Test
+full     False  6.157081         1   2.421309     6.059489  6.712286    False  False
+10-year  False  6.271775         1   3.426014      5.51005  6.242101    False  False
+5-year   False  9.907208         1  23.058261      4.66674  5.455518    False  False
+3-year   False  7.048137         1    8.86246     4.067155  4.692556    False  False
+1-year   False  6.787033         1   9.696536     2.878539  3.096464    False  False]
+143 ['0867.HK', '8197.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  41.360019         0  0.539514     3.069511  3.808635     True   True
+10-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False          0         0  5.337095     3.512385  4.406011     True  False]
+144 ['0011.HK', '1398.HK',          X_coe      Ratio X_padding      Offset Warning line  Threshold Pre-test   Test
+full     False  41.305844         1   26.169724    27.796223  33.464013     True   True
+10-year  False  38.872613         1   15.415896     28.65407  38.768172     True   True
+5-year   False  77.270432         1  178.429368    29.421416  33.840139     True   True
+3-year   False  71.453404         1  160.963845    30.343663  33.912636     True   True
+1-year   False  58.445122         1  129.157538    21.735788  23.688234    False  False]
+145 ['3998.HK', '2331.HK',         X_coe      Ratio X_padding     Offset Warning line  Threshold Pre-test  Test
+full     True  18.442668         0   4.809555    17.595157  21.039079     True  True
+10-year  True  19.528611         0    5.85235    17.351255  29.674654     True  True
+5-year   True  22.021635         0  22.032744    21.758245  32.857469     True  True
+3-year   True   33.53665         0  83.353463    30.658384  34.447506     True  True
+1-year   True    39.0349         0  100.78922    25.072734   33.21201     True  True]
+146 ['1308.HK', '1919.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False   3.06481         1  2.652846     5.456568  6.969624     True   True
+10-year  False  2.918093         1  1.620204     4.535411  7.016893     True   True
+5-year   False  2.468844         0  2.370301     7.378618   8.35814     True   True
+3-year   False   3.50379         1  6.238337     7.882952  9.724599     True  False
+1-year   False  2.083224         1   1.95681     2.830493  3.071604    False  False]
+147 ['1628.HK', '3333.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  6.464303         0  0.201403     5.202334  6.973482    False  False
+10-year  True  6.440119         0  0.597998     5.900577  7.085196    False  False
+5-year   True  6.550302         0  0.501131     3.687959  4.343803    False  False
+3-year   True  6.922543         0  0.458584     3.273283  4.967454    False  False
+1-year   True  7.444305         0  0.417656     0.465388  0.590333    False  False]
+148 ['1813.HK', '1238.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  1.949982         1  0.395166     1.580225  2.369616    False  False
+10-year  False  1.861326         1  0.385888     1.663722  2.520246    False  False
+5-year   False  1.766058         1   0.64408     2.106562  2.418021    False  False
+3-year   False  1.684486         1  0.609916      1.15656    1.6425    False  False
+1-year   False  1.374324         1  0.432581     0.312615  0.353901    False  False]
+149 ['3883.HK', '0813.HK',         X_coe     Ratio X_padding    Offset Warning line  Threshold Pre-test   Test
+full     True  2.735978         1  1.253493     7.016036    7.74967    False  False
+10-year  True  3.078183         0  1.757409     9.354445  10.335471    False  False
+5-year   True  2.898715         1  0.039535     6.038117   7.253046    False  False
+3-year   True  2.678473         1   0.06591     3.082536   3.745095    False  False
+1-year   True  3.904882         0   0.18776        3.446     3.6355    False  False]
+150 ['1038.HK', '0177.HK',          X_coe     Ratio X_padding     Offset Warning line  Threshold Pre-test   Test
+full     False  6.128936         0   0.177925     7.898895   9.447144    False  False
+10-year  False  6.115891         0   0.416546     8.973921  10.530677    False  False
+5-year   False  7.669075         1  14.490103     8.272705   9.988029    False  False
+3-year   False  5.716761         0   3.299641     6.288001   6.834481    False  False
+1-year   False  7.416794         1  13.895076     3.232029   4.692478    False  False]
+151 ['8005.HK', '1228.HK',         X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test  Test
+full     True    28.8247         0  3.271386     1.222422   1.58806     True  True
+10-year   NaN        NaN       NaN       NaN          NaN       NaN      NaN   NaN
+5-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN   NaN
+3-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN   NaN
+1-year   True  17.434528         0  1.780727     0.838662  1.027488     True  True]
+152 ['1288.HK', '0939.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.751584         1  0.069369     0.691276  0.781071     True   True
+10-year  True   1.82221         0  0.080922     0.739452  0.809605     True   True
+5-year   True   1.08332         1  1.890996     0.553549  0.608352     True   True
+3-year   True  1.153542         1  1.636434     0.598772  0.652249    False  False
+1-year   True  1.131216         1  1.258839     0.410503  0.430893    False  False]
+153 ['1966.HK', '0832.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full      True  1.082888         0  0.374372     0.625523     0.827    False  False
+10-year   True  1.079938         0  0.301567     0.751362  0.981981    False  False
+5-year    True  1.006431         0  0.086109     0.900328  1.033631    False  False
+3-year   False  1.016114         0  0.077189     0.976266  1.045171    False  False
+1-year   False  4.292369         1  0.182805     0.117013  0.131215    False  False]
+154 ['0026.HK', '0373.HK',          X_coe       Ratio X_padding      Offset Warning line  Threshold Pre-test   Test
+full     False   27.493649         0   14.737988    11.708364  14.927681    False  False
+10-year  False   35.195583         1    3.724337    19.131192  25.977648    False  False
+5-year   False   28.829834         0   14.793066    20.738963  23.305754    False  False
+3-year   False   32.506305         0    6.244702     8.660295  10.863679    False  False
+1-year   False  133.977961         1  149.826055     9.739971  12.005511    False  False]
+155 ['1228.HK', '0320.HK',          X_coe      Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  16.375063         1  5.279086     1.189482  1.487526    False  False
+10-year    NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+5-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+3-year     NaN        NaN       NaN       NaN          NaN       NaN      NaN    NaN
+1-year   False  13.975008         1  4.362503     0.962251  1.094256    False  False]
+156 ['2777.HK', '1628.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.303696         0  0.515843     2.237022  2.503036    False  False
+10-year  False  3.237798         0  0.639736     1.744841  2.206501    False  False
+5-year   False  3.138701         0  0.740192     1.834054  2.250553    False  False
+3-year   False  4.421262         0  0.612412     0.695301  0.886012    False  False
+1-year   False  3.804756         0  0.683229     0.322161  0.382593    False  False]
+157 ['1052.HK', '0177.HK',         X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     True  1.761376         1  0.319486     1.139774  1.350212     True  False
+10-year  True  1.407638         1  1.751429     0.979453  1.159454     True  False
+5-year   True  1.119184         1  2.517823     0.775461  0.954591     True   True
+3-year   True  1.543563         1  1.042167     0.856664  1.018174     True   True
+1-year   True  1.815063         1  0.158375     0.927126  1.025466     True   True]
+158 ['3883.HK', '1966.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  3.430939         1  1.144074     3.256349  3.695984    False  False
+10-year  False  3.269149         1  0.425413     3.872752  4.173329    False  False
+5-year   False   3.25252         1  0.374447     3.346323  3.887202    False  False
+3-year   False  2.735486         1  0.268884       2.8255  3.095663    False  False
+1-year   False  1.696327         1  0.093942     0.536039  0.600076    False  False]
+159 ['1098.HK', '0610.HK',          X_coe     Ratio X_padding    Offset Warning line Threshold Pre-test   Test
+full     False  2.940362         1  0.057743     1.847232  2.988751    False  False
+10-year  False   3.72233         1  2.622243     2.932953  3.537127    False  False
+5-year   False  3.789616         1  2.489096     3.894559  4.085054    False  False
+3-year   False  2.748205         1  1.180795     1.813278  2.105065    False  False
+1-year   False  2.626667         1  1.066533       0.5956  0.640533    False  False]
