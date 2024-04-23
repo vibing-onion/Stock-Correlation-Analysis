@@ -1,9 +1,9 @@
-#Convergence Trade
+# Convergence Trade
 (non-academic / professional article)
 
 Convergence trade, or relative value strategy, is a well known trading strategy used by many institutional and quantitative investors, such as Long Term Capital Management (LTCM, which was closed in 2000). In fact, convergence strategy aims to produce a considerable amount of rate of return while bearing a very low risk. In the following article, we will look into the idea, the detail, and the assumption taken for this strategy.
 
-#Idea of Convergence Trade:
+# Idea of Convergence Trade:
 
 Unlike most of the approaches adopted by most funds, convergence strategies do not take emphasis on either financial information of a company or financial news. Instead, it is a quantitative approach which analyzes the price movement of hundreds and thousands of stocks and bonds in the market by modeling and forecasting. Let’s think about a normal investment: we long a stock, and we gain money when the price of the stock increases. However, you will bear a loss when its price drops. In this case, we bear a risk when we seek a return, and the risk of the investment is hard to be quantified as there are many many factors affecting the price movement. 
 
@@ -17,7 +17,7 @@ Shell Transportation vs Royal Dutch Shell: In this case, Royal Dutch Shell and S
 Government bond: As a matter of fact, since the correlation of bonds is much higher than that of stocks, most of the convergence trade is applied in the bond market. Using 30-year US Treasury Bill as an example, it should share a very similar price to the the US Treasury bill which 29 years to maturity theoretically. However, as the newer 30-year US Treasury Bill is a more liquid financial product in the market, it should be slightly higher than the 29-year US T-bill when it is just issued. Recall the criteria to apply convergence trade: high correlation and difference in price movement. In this case, we can long the 29-year T-bill and short the newly issued 30-year T-bill and earn the arbitrage profit. 
 
 
-#Prerequisite of Convergence Trade:
+# Prerequisite of Convergence Trade:
 
 High correlation: Sometimes people may mix up convergence trade with a long-short strategy. Long short strategy is another hedging strategy which seeks profit under a controlled risk. However, for most of the time, the long short strategy is not functioning the same as the convergence strategy. It is because convergence strategy aims more at finding assets with extremely high correlations, at the extent higher than most of the long short strategy, by math modeling and programming. This explains why I would specify that the characteristics of eggs are almost identical in the previous example. Only a high correlation in asset price can have a better guarantee that their price will converge in the future and we can undergo nearly risk-free arbitrage.
 
@@ -25,19 +25,19 @@ Cheap leverage cost: If we observe most of the convergence trade opportunities, 
 
 Volatility minimization: Although institutional investors and high net worth individuals can have a very small leverage cost, large scale leverage can increase the risk very greatly within a short time. In this case, diversification needs to be considered. In usual, standard deviation is the common quantitative indicator of risk profile. A high standard deviation of portfolio indicates a higher volatility in return. For instance, a portfolio (e.g. that worths 10 million dollars) with daily standard deviation of 10% indicates that it may have a 10% positive return (earn 1 million dollars) or 10% negative return (lose 1 million dollars). To reduce the standard deviation, we have to find multiple correlated pairs of assets, but uncorrelated among the pairs. This can greatly reduce the overall standard deviation of the entire portfolio. In a nutshell, we have to construct a very diversified portfolio to reduce the risk of the portfolio. 
 
-#Important assumption - No black swan event exists:
+# Important assumption - No black swan event exists:
 
 With cheap leverage, low standard deviation, and almost riskless arbitrage profit, the strategy is actually close to flawless. However, to ensure a sustainable arbitrage, there is actually a very important assumption behind: No black swan event happens.
 
 A black swan refers to a very negative event that has a very low probability – not likely to happen but still has a small chance to happen. In the financial market, typical black swans examples are the default of national debt and large scale financial crises. These black swan events usually result in a market panic, which people cash out from the stock market since they lose faith in it. As a result, all the strategies in the portfolio will basically share the higher correlation (due to the systematic risk) and the probability of convergence will be much smaller in the short run. From the perspective of unrealised loss in accounting, the investors will bear loss for a long time. And given a surge in standard deviation and leverage, the loss of portfolio will be greatly multiplied.
 
-#Application of the python programming:
+# Application of the python programming:
 
-#Why Python
+# Why Python
 Understanding the concept of convergence trading, we have to handle the difficulty of complicated calculations and heavy computations. In order to dig out the relationship among a large collection of listed companies, correlation has to be calculated for all combinations of companies which may results in long research time and high error rate for usual excel operations.
 Python programming with various libraries for mathematical and statistical use, allowing us to carry out data mining with high-level functions with great flexibility. This project mainly focuses on yfinance, pandas, matplotlib & tkinter libraries. In this way, we can handle large datasets efficiently and accurately.
 
-#Methodology & Description
+# Methodology & Description
 
 The workflow of the analysis is as follows:
 1. Problem Definition
