@@ -1,0 +1,63 @@
+body, div,section{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+h1{
+    margin: 48px;
+    padding: 5px;
+    line-height: 100%;
+    color: rgb(190, 190, 190);
+    font-size: 42px;
+    text-align: center;
+}
+
+h2{
+    margin: 6px;
+    padding: 5px;
+    line-height: 100%;
+    color: rgb(181, 181, 181);
+    font-size: 36px;
+    max-width: 30%;
+}
+
+div.p_{
+    margin: 0px;
+    padding: 5px;
+    line-height: 100%;
+    color: rgb(120, 120, 120);
+    font-size: 21px;
+    text-indent: 80px;
+    max-width: 70%;
+}
+
+.text_box{
+    background-color: black;
+    color: rgb(200, 200, 200);
+    border: solid 2px rgb(160, 160, 160);
+    border-radius: 15px;
+
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+    display: flex;
+}
+
+.sub_text_box{
+    background-color: black;
+    color: rgb(200, 200, 200);
+    border: solid 2px rgb(160, 160, 160);
+    border-radius: 15px;
+
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    min-width: 35%;
+    max-width: 35%;
+}
