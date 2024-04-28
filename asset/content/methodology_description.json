@@ -1,0 +1,10 @@
+{
+    "title": "methodology_description",
+    "content": [
+        "In this project, we want to discover the correlations among listed companies in HKEx based on the stock price and the optimized buy / sell timing.",
+        "Having the pain points distinguished, we extract the historical stock price in the past 18 years, from 2005 to 2022, covering a much longer period so that more black swan events such as Financial Crisis in 2008 and Outbreak of Covid-19 in 2020.",
+        "The data is stored as .csv file with the help of yfinance and pandas libraries at the very beginning to avoid scraping them while processing the data. We then use a function returning a matrix of Pearson correlation (from 0 to 1) among the companies and filter the result where only pairs with 90% correlated (~150) are kept as our targets.",
+        "In convergence trading, spread between the two targets has to be known so that we can decide the moment to buy as the spread is very likely (90%) to become smaller. By comparing the ranges, the stock prices can be scaled and translated to a similar level (Projected Price). After matching them together, we call the mean as “Correct Price” and look for the 90% quantile of the spread so theoretically there will be only 10% of chance that the relative movement of stock price will NOT follow our expectation. Hence, it is the time to buy the stock with a lower Projected Price.",
+        "After all, we use matplotlib library to visualize the stock price and further pack them into a GUI (Graphical User Interface) with tkinter library for a better user experience. Users can simply input “start date”, “end date” (in form of “yyyy-mm-dd”) and any 2 valid yfinance tickers (eg. 1052.HK) in the GUI to get a visualized representation of the data, instead of going deep into the code and changing the parameters."
+    ]
+}
