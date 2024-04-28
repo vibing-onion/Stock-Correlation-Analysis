@@ -1,5 +1,5 @@
 {
-    "title": "methodology_description",
+    "title": "Methodology & Description",
     "content": [
         "In this project, we want to discover the correlations among listed companies in HKEx based on the stock price and the optimized buy / sell timing.",
         "Having the pain points distinguished, we extract the historical stock price in the past 18 years, from 2005 to 2022, covering a much longer period so that more black swan events such as Financial Crisis in 2008 and Outbreak of Covid-19 in 2020.",
