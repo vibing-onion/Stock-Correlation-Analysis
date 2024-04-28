@@ -1,5 +1,5 @@
 {
-    "title": "why_python",
+    "title": Why Python",
     "content": [
         "Understanding the concept of convergence trading, we have to handle the difficulty of  complicated calculations and heavy computations. In order to dig out the relationship among a large collection of listed companies, correlation has to be calculated for all combinations of companies which may results in long research time and high error rate for usual excel operations. ",
         "Python programming with various libraries for mathematical and statistical use, allowing us to carry out data mining with high-level functions with great flexibility. This project mainly focuses on yfinance, pandas, matplotlib & tkinter libraries. In this way, we can handle large datasets efficiently and accurately."
