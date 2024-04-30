@@ -4,7 +4,9 @@ const para_id = [
     "real_life_example1",
     "real_life_example2",
     "pre_requisite_of_convergence_trading",
-    "important_assumption"
+    "important_assumption",
+    'why_python',
+    'methodology_description'
 ];
 
 const para_id2 = [
@@ -12,7 +14,9 @@ const para_id2 = [
     "idea_of_convergence_trading",
     "real_life_example",
     "pre_requisite_of_convergence_trading",
-    "important_assumption"
+    "important_assumption",
+    'why_python',
+    'methodology_description'
 ];
 
 const setContent = () => {
@@ -54,6 +58,7 @@ function main(){
             console.log(item.id + i)
         }
     }
+    showConvergenceTrading()
 }
 
 main()
