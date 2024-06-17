@@ -4,3 +4,5 @@ This project idea is brought up by Victor(my partner) who also explains the theo
 The project is based on the concept of convergence trading and tries to demonstrate the relationship between highly correlated stocks. 
 
 May find out more details on our website @ https://vibing-onion.github.io/Stock-Correlation-Analysis/
+
+The current GUI code is not maintained due to upcoming transformation onto flask framework.
