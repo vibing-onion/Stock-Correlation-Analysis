@@ -21,5 +21,5 @@ Input for starting year, ending year & the stock pair
 Graph demonstrating the relationship in between and the possible timing for open (green) and close (blue) position.
 <img width="1464" alt="output" src="https://github.com/vibing-onion/Stock-Correlation-Analysis/assets/130590837/20c1832a-5ac4-42a6-baf8-044159240f9c">
 
-Displaying the dataframe behind for referencing or checking purpose
+Displaying the dataframe behind for referencing or checking purpose (forgive me the size of the container is not well adjusted, im too lazy as it works anyway lmao)
 <img width="1090" alt="dataframe" src="https://github.com/vibing-onion/Stock-Correlation-Analysis/assets/130590837/7b072ce4-63bd-4449-9c1e-202b4b66ffb1">
